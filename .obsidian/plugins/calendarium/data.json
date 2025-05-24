@@ -1,0 +1,208 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Fantasy Kalender Working Title",
+      "description": "",
+      "id": "ID_eb7ba8fa1afb",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Montag",
+            "id": "ID_c96bf94a9b49"
+          },
+          {
+            "type": "day",
+            "name": "Dienstag",
+            "id": "ID_ba697a2bcadb"
+          },
+          {
+            "type": "day",
+            "name": "Mittwoch",
+            "id": "ID_594b6a186aa8"
+          },
+          {
+            "type": "day",
+            "name": "Donnerstag",
+            "id": "ID_c848eb2b5afa"
+          },
+          {
+            "type": "day",
+            "name": "Freitag",
+            "id": "ID_cb49eb495b0a"
+          },
+          {
+            "type": "day",
+            "name": "Samstag",
+            "id": "ID_595bdb99d97a"
+          },
+          {
+            "type": "day",
+            "name": "Sonntag",
+            "id": "ID_d8393aab4abb"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Primora",
+            "length": 21,
+            "id": "ID_b8e808499899",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dolea",
+            "length": 21,
+            "id": "ID_985beb9a5a3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tralea",
+            "length": 21,
+            "id": "ID_a82aba094a39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Patra",
+            "length": 21,
+            "id": "ID_0a2809abfaea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sinca",
+            "length": 21,
+            "id": "ID_79db996a68bb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sasela",
+            "length": 21,
+            "id": "ID_387ae8bb6bca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sapta",
+            "length": 21,
+            "id": "ID_abdba88bbaaa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Optula",
+            "length": 21,
+            "id": "ID_08088bab1938",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Noa",
+            "length": 21,
+            "id": "ID_19c8d8db086a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Zecla",
+            "length": 21,
+            "id": "ID_da098b3a3929",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Mond",
+            "cycle": 21,
+            "offset": 0,
+            "faceColor": "#d2c8b4",
+            "shadowColor": "#000",
+            "id": "ID_c988a86a7a0a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": -1214881040,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 5,
+        "month": 1,
+        "year": 1287
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_eb7ba8fa1afb",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
