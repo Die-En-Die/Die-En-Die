@@ -1,1 +1,0 @@
-Kykladische Architektur

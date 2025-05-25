@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suroden/Malyrad (Insel)/Malyrad (Land)/Hauptstadt.md",
+                "file": "Suroden/Malyrad (Insel)/Fey Frühling/Hof Frühling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hauptstadt"
+              "title": "Hof Frühling"
             }
           }
         ]
@@ -116,8 +116,8 @@
                 },
                 "id": "ID_89bba9ca5ab8"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -192,6 +192,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "314b2b11aa359021",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_eb7ba8fa1afb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 1,
+                    "year": 1287
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_5bf9087969f9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "25d07bdf990b8485",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_eb7ba8fa1afb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 1,
+                    "year": 1287
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_a8bb78aafb6a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 5
@@ -203,21 +255,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "translate:Open translation view": false
     }
   },
   "active": "3f2f8946e724062b",
   "lastOpenFiles": [
-    "Suroden/Sarestra (Insel)/Yusna (Land)/Fildes (Hauptstadt).md",
-    "Suroden/Malyrad (Insel)/Malyrad (Land)/Hauptstadt.md",
+    "Suroden/Sarestra (Insel)/Stendo (Land)/Presta (Hauptstadt).md",
+    "Getting Started.md",
     "Suroden/Malyrad (Insel)/Fey Frühling/Hof Frühling.md",
+    "Suroden/Malyrad (Insel)/Malyrad (Land)/Hauptstadt.md",
+    "Suroden/Sarestra (Insel)/Yusna (Land)/Fildes (Hauptstadt).md",
     "Suroden/Sarestra (Insel)/Fey Winter/Hof Winter.md",
     "Suroden/Sarestra (Insel)/Fey Sommer/Hof Sommer.md",
     "Suroden/Sarestra (Insel)/Fey Herbst/Hof Herbst.md",
@@ -228,7 +283,6 @@
     "Suroden/Sarestra (Insel)/Stendo (Land)/Stendo (Land).md",
     "Suroden/Sarestra (Insel)/Stendo (Land)",
     "Suroden/Sarestra (Insel)/Sarestra (Insel).md",
-    "Getting Started.md",
     "Suroden/Malyrad (Insel)/Malyrad (Land)/Malyrad (Land).md",
     "Suroden/Sarestra (Insel)/Yusna (Land)/Yusna (Land).md",
     "README.md",
