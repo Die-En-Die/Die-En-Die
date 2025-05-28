@@ -7,13 +7,13 @@ Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in whi
 In D&D, the action takes place in the imaginations of the players, and it’s narrated by everyone together. Here’s a glimpse at what that looks like:
 
 >[!example]
-><font color="#992626">**Jared (as Dungeon Master):**</font> After your long journey, Castle Ravenloft towers before you. Crumbling towers of stone—perhaps abandoned guardhouses—loom over the approach. Beyond them, you see a gaping chasm disappearing into deep fog below. A lowered drawbridge spans the chasm, its chains creaking in the wind. Stone gargoyles stare down at you from the high walls, and a pale light spills into the courtyard from the open castle doors beyond.
+>**Jared (as Dungeon Master):** After your long journey, Castle Ravenloft towers before you. Crumbling towers of stone—perhaps abandoned guardhouses—loom over the approach. Beyond them, you see a gaping chasm disappearing into deep fog below. A lowered drawbridge spans the chasm, its chains creaking in the wind. Stone gargoyles stare down at you from the high walls, and a pale light spills into the courtyard from the open castle doors beyond.
 >
 >**Phillip (as Gareth):** I examine the gargoyles. I have a feeling they’re not just statues!
 >
 >**Maeve (as Mirabella):** I want to see how sturdy the drawbridge is. Do I think we can cross it, or is it going to collapse under our weight?
 >
-><font color="#992626">**Jared:**</font> All right, one at a time. Phillip, Gareth’s looking at the gargoyles?
+>**Jared:** All right, one at a time. Phillip, Gareth’s looking at the gargoyles?
 >
 >**Phillip:** Yeah. Is there any hint they might be creatures and not just decorations?
 >
@@ -24,8 +24,8 @@ In D&D, the action takes place in the imaginations of the players, and it’s na
 >**Jared:** Sure!
 >
 >**Phillip (rolling a d20):** Ugh. Seven.
-
-**>Jared:** They look like decorations to you. And Maeve, Mirabella is examining the drawbridge?
+>
+>**Jared:** They look like decorations to you. And Maeve, Mirabella is examining the drawbridge?
 
 The adventure continues from there, relying on the DM’s descriptions to set the scenes. Later in the chapter, other examples of play focus on certain aspects of D&D play: [social interaction](#SocialInteractionExample), [exploration](#ExplorationExample), and [combat](#CombatandDamageExample).
 
