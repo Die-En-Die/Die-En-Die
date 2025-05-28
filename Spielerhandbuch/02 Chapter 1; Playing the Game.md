@@ -44,7 +44,7 @@ To play D&D, you need one person to be the Dungeon Master and other players (thr
 
 If you want to be one of the protagonists in your group’s adventures, consider being a player. Here’s what players do:
 
-**Make a Character.** Your character is your alter ego in the fantasy world of the game. After you read this chapter, use the rules in [[Chapter 2; Creating a Character]] to create your character.
+**Make a Character.** Your character is your alter ego in the fantasy world of the game. After you read this chapter, use the rules in [[03 Chapter 2; Creating a Character]] to create your character.
 
 **Team Up.** Your character joins the other players’ characters to form an adventuring party. These adventurers are allies who face challenges and fantastical situations together. Each character brings distinctive capabilities, which ideally complement those of the other characters.
 
