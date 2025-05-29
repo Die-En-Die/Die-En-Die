@@ -28,7 +28,10 @@ Für mehr Infos hab ich eine Art Wiki angefangen. Das ist noch sehr Barebones un
 # Tools & Links
 
 Charakter Sheet: https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf
+
 Charakterbogen: https://www.dnddeutsch.de/wp-content/uploads/2025/01/Charakterbogen-DnD2024-ausfuellbar-DLtheDM-Denito.pdf
+
+2014 Charakterbogen: https://www.dnddeutsch.de/wp-content/uploads/2022/07/charakterbogen_ataendler_v2.8.2.pdf
 
 Spielerhandbuch: https://online.anyflip.com/othyf/kgar/mobile/index.html
 

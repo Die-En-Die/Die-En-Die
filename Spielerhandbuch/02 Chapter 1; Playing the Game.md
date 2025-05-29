@@ -765,7 +765,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 >
 >**Amy (as Auro):** I go near the fireplace. A warm fire sounds nice. But I’m also alert for danger.
 >
->>[!note]
+>>[!info]
 >>**Teamwork Matters.** The player characters are working toward a common goal. They move together through the dungeon and cooperate to overcome its challenges. When the characters enter the room, they explore different parts of the room. When Auro finds a secret door behind the fireplace later in the example, they come together again to examine it, and Gareth figures out how to bypass the fire. It might seem like Russell’s character wasn’t doing much, but Shreeve was protecting the group by guarding the door.
 >___
 >3
@@ -1239,174 +1239,155 @@ If multiple effects impose the same condition on you, each instance of the condi
 
 ### Combat and Damage Example
 
-In this scene, threats force a group of adventurers into battle. This example demonstrates the turn-based flow of combat that gives each player a chance to detail what they do during the high-stakes moments of a fight.
-
-_Below Castle Ravenloft, the characters enter combat!_
-
-**Jared (as DM):** Yellow lichen covers the ceiling in this passage, which has alcoves along both sides.
-
-**Russell (as Shreeve):** I peer into the nearest alcoves.
-
-8
-
-**Jared:** They each contain human skeletal remains. The silence is broken suddenly by the rattle of bones as the skeletons lurch to their feet all around you and prepare to attack!
-
-8
-
-**Starting Combat.** While describing the skeletons animating, the DM gets ready to start combat by mentally figuring out where everyone is, referring to the map of the area and the party’s established marching order.
-
-**Russell:** Ack! How many skeletons?
-
-9
-
-**Jared:** Ten in all, and they’re hostile. Roll Initiative!
-
-**Russell:** Ten skeletons? Yikes! I got a 16.
-
-**Maeve (as Mirabella):** I got 8.
-
-9
-
-**Rolling Initiative.** The next step in combat is for everyone involved to roll [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative).
-
-**Phillip (as Gareth):** An incredible 2 for Gareth.
-
-**Amy (as Auro):** I got a 19!
-
-10
-
-**Jared:** The Rogue is quick to react—but not as quick as the skeletons! They got a 20. The first four attack the person in the lead: Shreeve.
-
-10
-
-**Taking Turns.** Now each participant in the battle takes a turn in Initiative order. The skeletons go first because they got the highest Initiative: 20.
-
-**Russell:** Oh, boy.
-
-11
-
-**Jared:** Their attack roll totals are 8, 16, 18, and 20.
-
-**Russell:** The 8 and 16 miss my AC, but the others hit.
-
-**Jared:** Two of them stick you with their broken blades, dealing a total of 9 Piercing damage.
-
-11
-
-**Attack Rolls.** When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target’s [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) (AC), the attack hits.
-
-**Russell:** Is that the best you can do?
-
-**Phillip:** Never say that to the DM.
-
-**Jared:** Heh. Now two of them attack Auro. The first roll is a natural 1: a miss. The second roll is 16.
-
-**Amy:** That hits.
-
-**Jared:** You take 4 Piercing damage, and one of them attacks Mirabella with a roll of 14.
-
-12
-
-**Maeve:** Hits. No, wait! I cast _Shield_, so that misses.
-
-**Jared:** The skeleton’s blade bounces off your shield of magical force. Then two of them attack Gareth. One misses with a 5, but the other one lands a solid blow with a 21, dealing 7 piercing damage.
-
-12
-
-**Spells and Reactions.** Mirabella casts the [Shield](/spells/2619019-shield) spell. It’s a special property of this spell that it can be cast even when it’s not the caster’s turn, using her Reaction (see “[Actions](#Reactions)” earlier in this chapter).
-
-**Phillip:** That got my attention!
-
-**Jared:** That’s nine attacks. There’s one more skeleton at the end of the hall. It moves up and waits for an opening. Now it’s Auro’s turn.
-
-**Amy:** I attack one close to me. Does a 24 hit?
-
-**Jared:** A solid hit!
-
-**Amy:** And it’s next to one of my allies, right?
-
-**Jared:** Yes.
-
-13
-
-**Amy:** So with my Sneak Attack, that’s 22 damage!
-
-**Jared:** Your blade slides into an empty eye socket, and the skeleton clatters to the ground, now inanimate and harmless.
-
-13
-
-**Amy:** Then I use Cunning Action to Disengage as a Bonus Action and move 20 feet out of the melee.
-
-13
-
-**Special Abilities.** Auro’s Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him [Disengage](/sources/dnd/free-rules/rules-glossary#DisengageAction) as a Bonus Action. These are examples of class features (described in [chapter 3](/sources/dnd/phb-2024/character-classes)) that let characters bend the rules.
-
-**Jared:** Very good. Shreeve?
-
-14
-
-**Russell:** I drop my sword and pull out my warhammer. Time to break some bones! My first attack is a 21 to hit for 7 Bludgeoning damage.
-
-**Jared:** It tries to block your swing, but the force of your blow destroys the skeleton!
-
-14
-
-**Vulnerability.** An attack that deals Bludgeoning damage is deadly to skeletons. Shreeve knows this from past experience, which is why she drops her sword and switches to a Bludgeoning weapon. She rolls only 7 damage, but the DM knows the skeleton actually takes 14 damage.
-
-**Russell:** I swing at the next skeleton with 11 to hit.
-
-**Jared:** The skeleton dodges out of the way.
-
-**Russell:** Rats. That’s my turn.
-
-**Jared:** Mirabella?
-
-15
-
-**Maeve:** How many can I get in a 15-foot Cube?
-
-**Jared:** Three if you don’t want to get Shreeve too.
-
-15
-
-**Areas of Effect.** Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) of the [Thunderwave](/spells/2619184-thunderwave) spell. See the [rules glossary](/sources/dnd/phb-2024/rules-glossary#AreaofEffect) for more on areas of effect.
-
-16
-
-**Maeve:** That’s probably best. I cast _Thunderwave_ at those three, using a level 2 spell slot. So there’s a loud boom, and a wave of thunderous force sweeps over the skeletons. They need to make DC 15 Constitution saves.
-
-**Jared:** They all fail!
-
-16
-
-**Saving Throws.** The skeletons make Constitution saving throws to resist the [Thunderwave](/spells/2619184-thunderwave) spell. When they fail those saves, they take damage and are pushed, as defined in that spell’s description.
-
-**Maeve:** Because I used a level 2 slot, that’s 15 Thunder damage, and they’re pushed 10 feet away.
-
-**Jared:** They’re pushed back and shattered.
-
-**Maeve:** Excellent! Four down, six to go.
-
-**Jared:** And it’s Gareth’s turn at last!
-
-**Phillip:** How many of them are within 30 feet of me?
-
-**Damage and Hit Points.** The skeletons have 13 Hit Points each, so the spells and attacks in this example deal enough damage to destroy them. If a spell or an attack dealt less than 13 damage, the DM would keep track of the damage each skeleton has taken until it is reduced to 0 Hit Points and is destroyed.
-
-**Jared:** All six.
-
-17
-
-**Phillip:** I hold up my Holy Symbol and ask Pelor the Holy Sun to sear these skeletons. They need to make DC 15 Wisdom saves.
-
-**Jared (rolling):** Oh, those are not good numbers. None of them even got close.
-
-**Phillip:** They each take 18 Radiant damage and—
-
-17
-
-**Saving Throws.** Gareth’s Sear Undead is a class feature (see [chapter 3](/sources/dnd/phb-2024/character-classes)). As with Mirabella’s [Thunderwave](/spells/2619184-thunderwave) spell, Sear Undead forces the skeletons to make a saving throw.
-
-**Jared:** Never mind the “and.” Pelor does indeed smite these skeletons! They’re silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.
+>[!example]
+>In this scene, threats force a group of adventurers into battle. This example demonstrates the turn-based flow of combat that gives each player a chance to detail what they do during the high-stakes moments of a fight.
+>
+>_Below Castle Ravenloft, the characters enter combat!_
+>
+>***Jared (as DM):*** Yellow lichen covers the ceiling in this passage, which has alcoves along both sides.
+>
+>**Russell (as Shreeve):** I peer into the nearest alcoves.
+>___
+>8
+>***Jared:*** They each contain human skeletal remains. The silence is broken suddenly by the rattle of bones as the skeletons lurch to their feet all around you and prepare to attack!
+>
+>>[!info] 8
+>>**Starting Combat.** While describing the skeletons animating, the DM gets ready to start combat by mentally figuring out where everyone is, referring to the map of the area and the party’s established marching order.
+>___
+>**Russell:** Ack! How many skeletons?
+>___
+>9
+>***Jared:*** Ten in all, and they’re hostile. Roll Initiative!
+>
+>>[!info] 9
+>>**Rolling Initiative.** The next step in combat is for everyone involved to roll [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative).
+>___
+>**Russell:** Ten skeletons? Yikes! I got a 16.
+>
+>**Maeve (as Mirabella):** I got 8.
+>
+>**Phillip (as Gareth):** An incredible 2 for Gareth.
+>
+>**Amy (as Auro):** I got a 19!
+>___
+>10
+>***Jared:*** The Rogue is quick to react—but not as quick as the skeletons! They got a 20. The first four attack the person in the lead: Shreeve.
+>
+>>[!info] 10
+>>**Taking Turns.** Now each participant in the battle takes a turn in Initiative order. The skeletons go first because they got the highest Initiative: 20.
+>___
+>**Russell:** Oh, boy.
+>___
+>11
+>***Jared:*** Their attack roll totals are 8, 16, 18, and 20.
+>
+>**Russell:** The 8 and 16 miss my AC, but the others hit.
+>
+>***Jared:*** Two of them stick you with their broken blades, dealing a total of 9 Piercing damage.
+>
+>>[!info] 11
+>>**Attack Rolls.** When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target’s [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) (AC), the attack hits.
+>___
+>**Russell:** Is that the best you can do?
+>
+>**Phillip:** Never say that to the DM.
+>
+>***Jared:*** Heh. Now two of them attack Auro. The first roll is a natural 1: a miss. The second roll is 16.
+>
+>**Amy:** That hits.
+>
+>***Jared:*** You take 4 Piercing damage, and one of them attacks Mirabella with a roll of 14.
+>___
+>12
+>**Maeve:** Hits. No, wait! I cast _Shield_, so that misses.
+>
+>>[!note] 12
+>>**Spells and Reactions.** Mirabella casts the [Shield](/spells/2619019-shield) spell. It’s a special property of this spell that it can be cast even when it’s not the caster’s turn, using her Reaction (see “[Actions](#Reactions)” earlier in this chapter).
+>___
+>***Jared:*** The skeleton’s blade bounces off your shield of magical force. Then two of them attack Gareth. One misses with a 5, but the other one lands a solid blow with a 21, dealing 7 piercing damage.
+>
+>**Phillip:** That got my attention!
+>
+>***Jared:*** That’s nine attacks. There’s one more skeleton at the end of the hall. It moves up and waits for an opening. Now it’s Auro’s turn.
+>
+>**Amy:** I attack one close to me. Does a 24 hit?
+>
+>***Jared:*** A solid hit!
+>
+>**Amy:** And it’s next to one of my allies, right?
+>
+>***Jared:*** Yes.
+>___
+>13
+>**Amy:** So with my Sneak Attack, that’s 22 damage!
+>___
+>***Jared:*** Your blade slides into an empty eye socket, and the skeleton clatters to the ground, now inanimate and harmless.
+>___
+>13
+>**Amy:** Then I use Cunning Action to Disengage as a Bonus Action and move 20 feet out of the melee.
+>
+>>[!info] 13
+>>**Special Abilities.** Auro’s Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him [Disengage](/sources/dnd/free-rules/rules-glossary#DisengageAction) as a Bonus Action. These are examples of class features (described in [chapter 3](/sources/dnd/phb-2024/character-classes)) that let characters bend the rules.
+>___
+>***Jared:*** Very good. Shreeve?
+>___
+>14
+>**Russell:** I drop my sword and pull out my warhammer. Time to break some bones! My first attack is a 21 to hit for 7 Bludgeoning damage.
+>
+>>[!info] 14
+>>**Vulnerability.** An attack that deals Bludgeoning damage is deadly to skeletons. Shreeve knows this from past experience, which is why she drops her sword and switches to a Bludgeoning weapon. She rolls only 7 damage, but the DM knows the skeleton actually takes 14 damage.
+>___
+>***Jared:*** It tries to block your swing, but the force of your blow destroys the skeleton!
+>
+>**Russell:** I swing at the next skeleton with 11 to hit.
+>
+>***Jared:*** The skeleton dodges out of the way.
+>
+>**Russell:** Rats. That’s my turn.
+>
+>***Jared:*** Mirabella?
+>___
+>15
+>**Maeve:** How many can I get in a 15-foot Cube?
+>
+>>[!info] 15
+>>**Areas of Effect.** Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) of the [Thunderwave](/spells/2619184-thunderwave) spell. See the [rules glossary](/sources/dnd/phb-2024/rules-glossary#AreaofEffect) for more on areas of effect.
+>___
+>***Jared:*** Three if you don’t want to get Shreeve too.
+>___
+>16
+>**Maeve:** That’s probably best. I cast _Thunderwave_ at those three, using a level 2 spell slot. So there’s a loud boom, and a wave of thunderous force sweeps over the skeletons. They need to make DC 15 Constitution saves.
+>
+>***Jared:*** They all fail!
+>
+>>[!info] 16
+>>**Saving Throws.** The skeletons make Constitution saving throws to resist the [Thunderwave](/spells/2619184-thunderwave) spell. When they fail those saves, they take damage and are pushed, as defined in that spell’s description.
+>___
+>**Maeve:** Because I used a level 2 slot, that’s 15 Thunder damage, and they’re pushed 10 feet away.
+>
+>***Jared:*** They’re pushed back and shattered.
+>
+>>[!info]
+>>**Damage and Hit Points.** The skeletons have 13 Hit Points each, so the spells and attacks in this example deal enough damage to destroy them. If a spell or an attack dealt less than 13 damage, the DM would keep track of the damage each skeleton has taken until it is reduced to 0 Hit Points and is destroyed.
+>
+>**Maeve:** Excellent! Four down, six to go.
+>
+>***Jared:*** And it’s Gareth’s turn at last!
+>
+>**Phillip:** How many of them are within 30 feet of me?
+>
+>***Jared:*** All six.
+>___
+>17
+>**Phillip:** I hold up my Holy Symbol and ask Pelor the Holy Sun to sear these skeletons. They need to make DC 15 Wisdom saves.
+>
+>>[!info] 17
+>>**Saving Throws.** Gareth’s Sear Undead is a class feature (see [chapter 3](/sources/dnd/phb-2024/character-classes)). As with Mirabella’s [Thunderwave](/spells/2619184-thunderwave) spell, Sear Undead forces the skeletons to make a saving throw.
+>___
+>**Jared (rolling):** Oh, those are not good numbers. None of them even got close.
+>
+>**Phillip:** They each take 18 Radiant damage and—
+>
+>***Jared:*** Never mind the “and.” Pelor does indeed smite these skeletons! They’re silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.
 
 >[!note] JOHN GRELLO [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/01-012.combat-example.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/01-012.combat-example.png)

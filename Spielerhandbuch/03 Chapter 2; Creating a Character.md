@@ -1,27 +1,30 @@
-DMITRY BURMAK [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/02-001.world-traveling-explorers.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/02-001.world-traveling-explorers.png)
 
-World-traveling explorers Hank, Bobby, Sheila, Diana, and  
-Presto stand on the threshold of their next adventure
+___
+
+>[!note] DMITRY BURMAK [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/02-001.world-traveling-explorers.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/02-001.world-traveling-explorers.png)
+>
+>*World-traveling explorers Hank, Bobby, Sheila, Diana, and  
+Presto stand on the threshold of their next adventure*
 
 You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as [Fighter](/sources/dnd/phb-2024/character-classes#Fighter) or [Wizard](/sources/dnd/phb-2024/character-classes-continued#Wizard)), a background (such as [Sailor](/sources/dnd/phb-2024/character-origins#Sailor) or [Acolyte](/sources/dnd/phb-2024/character-origins#Acolyte)), and a species (such as [Human](/sources/dnd/phb-2024/character-origins#Human) or [Elf](/sources/dnd/phb-2024/character-origins#Elf)). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
 
-## [](#GetReady)Get Ready
+## Get Ready
 
 Before you dive into character creation, there are a few things to do to get ready, as explained below.
 
-### [](#TalkwithYourDM)Talk with Your DM
+### Talk with Your DM
 
 Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don’t know where to begin, look at the character illustrations in this book for inspiration.
 
-Session Zero
+>[!tip] Session Zero
+>
+>Some Dungeon Masters start a campaign with a “session zero,” an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
 
-Some Dungeon Masters start a campaign with a “session zero,” an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
-
-### [](#ChooseaCharacterSheet)Choose a Character Sheet
+### Choose a Character Sheet
 
 You’ll record the main details of your character on a character sheet. Throughout this chapter, we use the term “character sheet” to mean whatever you use to track your character’s details, whether it’s a printed character sheet, a digital character sheet like the one on [D&D Beyond](/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
 
-## [](#CreateYourCharacter)Create Your Character
+## Create Your Character
 
 Here are the steps to make a character; each step is explored in detail in this chapter:
 
